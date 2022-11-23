@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "git-source-package": "git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#b367f12603cbc45eb3db49d44d6363e928f6b6d5"
   },
