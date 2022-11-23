@@ -5,14 +5,10 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"git-source-package@git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#1baa0978bddc5800d57f4c4c65e94e0694211777":
+"git-source-package@git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#3e4df5fe94e39472033cc7d40e5a880fe0a7292b":
   version: 1.0.0
-  resolution: "git-source-package@git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#commit=1baa0978bddc5800d57f4c4c65e94e0694211777"
-  peerDependencies:
-    "@hdmap/service": ^0.3.1
-    local-workspace: ^1.0.0
-    lodash: ^4.17.21
-  checksum: d7fae6ee7b1d990783ab8e7e1b29f82602f052da2f99f458e8ff91f59fb689b8961e66c656217cc2b3b071d93785781ce793f2247e8ef6402f436be6104d5662
+  resolution: "git-source-package@git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#commit=3e4df5fe94e39472033cc7d40e5a880fe0a7292b"
+  checksum: d4634d79b84913f871bde483d234f6c0ccb848282940b41ef1617e0b70c6577542054d7b3098cf7b0825040529998ad25c2dd4efda41e3905adecbbab4ddf3bd
   languageName: node
   linkType: hard
 
@@ -20,6 +16,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "yarn-demo@workspace:."
   dependencies:
-    git-source-package: "git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#1baa0978bddc5800d57f4c4c65e94e0694211777"
+    git-source-package: "git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#3e4df5fe94e39472033cc7d40e5a880fe0a7292b"
   languageName: unknown
   linkType: soft

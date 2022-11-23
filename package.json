@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "git-source-package": "git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#5b16f67990cf419a7768e16f8c3a6030f17bd323"
+    "git-source-package": "git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#b367f12603cbc45eb3db49d44d6363e928f6b6d5"
   },
   "author": "",
   "license": "ISC",
