@@ -1,0 +1,15 @@
+{
+  "name": "yarn-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "git-source-package": "git+ssh://git@github.com:AmyFoxFN/yarn-demo-git-source-package.git#bf9f29e1afaded282d041514f11da173f16b0691"
+  },
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@3.2.0"
+}
